@@ -1,5 +1,4 @@
 # DIY-point-of-sale-hardware
-# Boitiers_Cashless-TiBillet
 ![](Asset/20230719_155720.jpg)
 ![](Asset/20230527_103827.jpg)
 ## Materiel necessaire :
