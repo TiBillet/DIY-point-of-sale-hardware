@@ -1,6 +1,6 @@
 L'écran utilisé est celui-ci :
 
-![7Pouces](/../main/Asset/20230720_115607.jpg)
+![7Pouces](/../main/Asset/7PoucesHDMI-LCD-C.jpg)
 
 
 Avec la particularité de se fixer depuis l'intérieur du boitier.
