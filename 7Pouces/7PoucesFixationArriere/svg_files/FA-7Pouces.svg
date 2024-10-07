@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164.000mm" height="338.630mm" viewBox="-204.000000 -357.315002 164.000000 338.630005">
+    <path transform="matrix(-1,0,0,1,5,-378)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M45,32.5L45,32.5"/>
+    <circle transform="matrix(1,0,0,-1,-124,-339.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" r="2.625" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-124,-139.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" r="2.625" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-193.75,-239.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" r="2.625" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,-54.25,-239.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" r="2.625" cx="0" cy="0"/>
+    <path transform="matrix(1,0,0,-1,-124,-9.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M70,347.5L-70,347.5C-75.52285,347.5,-80,343.022858,-80,337.5L-80,18.870001C-80,13.347152,-75.522842,8.87,-70,8.87L70,8.870001C75.52285,8.870001,80,13.347153,80,18.870001L80,337.5C80,343.022858,75.52285,347.5,70,347.5z"/>
+    <path transform="matrix(1,0,0,-1,-124,-9.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M-48.5,147.5L51.5,147.5L51.5,312.5L-48.5,312.5L-48.5,147.5z"/>
+    <path transform="matrix(1,0,0,-1,-124,-9.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M-34,327.25L-17.5,327.25L-17.5,332.75L-34,332.75L-34,327.25z"/>
+    <path transform="matrix(1,0,0,-1,-124,-9.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M34,327.25L17.5,327.25L17.5,332.75L34,332.75L34,327.25z"/>
+    <path transform="matrix(1,0,0,-1,-124,-9.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M-72.5,245L-67,245L-67,261.5L-72.5,261.5L-72.5,245z"/>
+    <path transform="matrix(1,0,0,-1,-124,-9.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M-72.5,215L-67,215L-67,198.5L-72.5,198.5L-72.5,215z"/>
+    <path transform="matrix(1,0,0,-1,-124,-9.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M72.5,245L67,245L67,261.5L72.5,261.5L72.5,245z"/>
+    <path transform="matrix(1,0,0,-1,-124,-9.815002)" style="stroke:#0000ff;stroke-width:0.05mm;fill:none" d="M72.5,215L67,215L67,198.5L72.5,198.5L72.5,215z"/>
+</svg>
